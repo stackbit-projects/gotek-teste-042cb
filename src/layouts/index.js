@@ -4,10 +4,12 @@ import post from './post';
 
 export {
     advanced,
-    page
+    page,
+    post
 };
 
 export default {
     advanced,
-    page
+    page,
+    post
 };
