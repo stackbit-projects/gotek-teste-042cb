@@ -4,8 +4,7 @@ import post from './post';
 
 export {
     advanced,
-    page,
-    post
+    page
 };
 
 export default {
