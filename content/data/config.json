@@ -30,7 +30,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "/images/GOTEK SEM FUNDO 1.png"
     },
     "footer": {
         "has_nav": true,
