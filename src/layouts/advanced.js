@@ -8,7 +8,6 @@ export default class Advanced extends React.Component {
     render() {
         const data = _.get(this.props, 'data');
         const config = _.get(data, 'config');
-        const posts = _.get(this.props, 'posts');
         const page = _.get(this.props, 'page');
         const sections = _.get(page, 'sections');
         const pageUrl = getPageUrl(page);
