@@ -31,7 +31,8 @@
                 "style": "primary"
             }
         ],
-        "logo": "/images/GOTEK SEM FUNDO 1.png"
+        "logo": "/images/GOTEK SEM FUNDO 1.png",
+        "logo_alt": "GOTEK"
     },
     "footer": {
         "has_nav": true,
