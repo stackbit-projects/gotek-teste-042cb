@@ -28,10 +28,6 @@ export {
 
 export default {
     Action,
-    BlogFeedSection,
-    BlogPostCategories,
-    BlogPostMeta,
-    BlogPostTags,
     ContactSection,
     ContentSection,
     CtaSection,
