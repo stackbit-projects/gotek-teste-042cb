@@ -1,8 +1,4 @@
 import Action from './Action';
-import BlogFeedSection from './BlogFeedSection';
-import BlogPostCategories from './BlogPostCategories';
-import BlogPostMeta from './BlogPostMeta';
-import BlogPostTags from './BlogPostTags';
 import ContactSection from './ContactSection';
 import ContentSection from './ContentSection';
 import CtaSection from './CtaSection';
@@ -17,10 +13,6 @@ import TeamSection from './TeamSection';
 
 export {
     Action,
-    BlogFeedSection,
-    BlogPostCategories,
-    BlogPostMeta,
-    BlogPostTags,
     ContactSection,
     ContentSection,
     CtaSection,
