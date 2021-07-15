@@ -10,6 +10,5 @@ export {
 
 export default {
     advanced,
-    page,
-    post
+    page
 };
