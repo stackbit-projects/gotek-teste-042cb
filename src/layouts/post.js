@@ -29,7 +29,7 @@ export default class Post extends React.Component {
                             </div>
                         )}
                         <header className="post__header">
-                           // <BlogPostCategories categories={categories} data={data} containerClass={'post__meta'} />
+                            /*<BlogPostCategories categories={categories} data={data} containerClass={'post__meta'} />*/
                             <h1 className="post__title">{title}</h1>
                             <BlogPostMeta post={page} data={data} containerClass={'post__meta'} />
                         </header>
